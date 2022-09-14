@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InfoSort</string>
+    <string name="login_bottomText">Kurumsal üyelik için <u>tıklayınız</u>.</string>
+    <string name="login_forgotPasswordText"><u>Şifremi unuttum</u>.</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
